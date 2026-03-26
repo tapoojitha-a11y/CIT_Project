@@ -13,5 +13,6 @@ public class NestedIf {
                 System.out.println(" Eligible to vote and not eligible to avail government scheme");
         } else
             System.out.println(" Not Eligible to vote and not eligible to avail");
+        sc.close();
     }
 }
